@@ -6,7 +6,7 @@ I build practical software.
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffy53339@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JefCristo-181717?style=for-the-badge&logo=github)](https://github.com/JefCristo)
 
-> Simple profile. I like building, learning, and shipping.
+> I like building, learning, and shipping.
 
 ## Snapshot
 
